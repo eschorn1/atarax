@@ -1,4 +1,5 @@
 from collections import OrderedDict
+import numpy as np
 
 IMAGENET2012_CLASSES = OrderedDict(
     {
